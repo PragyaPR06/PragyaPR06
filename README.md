@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **vyatha1.0**
 
-- 🌱 I’m currently learning **NEXTJS**
+- 🌱 I’m currently learning **NEXTJS,ExpressJs,DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PragyaPR06](https://github.com/PragyaPR06)
 
